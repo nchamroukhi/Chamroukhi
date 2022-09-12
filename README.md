@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Chamroukhi
+- 👋 Hi, I’m @nchamroukhi
 - 👀 I’m interested in Machine Learning, Deep Learning, Computer Vision
 - 🌱 I’m currently Data Scientist 
 - 📫 How to reach me nawfel.chamroukhi@gmail.com
